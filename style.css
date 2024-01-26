@@ -106,10 +106,10 @@ button:hover {
 
 .reih {
     height: 60px;
-    width: 230px;
+    width: 260px;
     background-color: white;
     color: var(--doo);
-    font-size: 20pt;
+    font-size: 1em;
     border: 3px solid var(--doo);
     border-radius: 20px;
 }
