@@ -6,7 +6,6 @@ body {
     margin: 0;
     background-color: var(--lheeah);
     overflow-x: hidden;
-    overflow-y: hidden;
 }
 
 :root {
